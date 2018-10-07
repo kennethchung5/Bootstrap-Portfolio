@@ -1,0 +1,67 @@
+body {
+    background-image: url("../images/intersection/intersection.png");
+}
+
+.navbarContainer {
+    width: 100%;
+    background-color: white;
+
+    
+}
+
+#myBrand {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px 20px;
+    
+
+
+    
+}
+
+
+/*use this to center div when it doesn't take up full screen */
+.col-md-10 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.mainContainer {
+    background-color: white;
+    margin-top: 4%;
+    /* padding: 10px; */
+}
+
+h2 {
+    padding: 5px 15px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+/* img {
+    max-width: 100%;
+} */
+
+.floatImage {
+    float: left;
+    /* margin: 0 15px 15px; */
+}
+
+.floatText {
+    float: left;
+}
+
+.clearPara {
+    clear: both;
+}
+
+p {
+    line-height: 30px;
+    padding: 15px;
+}
+
+
+.btn {
+    margin-bottom: 15px;
+}
